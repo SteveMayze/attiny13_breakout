@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "attiny13_breakout")(type "KiCad")(uri "${LOCAL_PCBS}/attiny13_breakout/kicad/attiny13_breakout/lib/attiny13_breakout.pretty")(options "")(descr ""))
+  (lib (name "mech")(type "KiCad")(uri "${MYLIB}/mech.pretty")(options "")(descr ""))
+  (lib (name "TagConnect")(type "KiCad")(uri "${MYLIB}/TagConnect.pretty")(options "")(descr ""))
+)

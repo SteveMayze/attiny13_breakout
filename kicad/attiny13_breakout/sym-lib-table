@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "attiny13_breakout")(type "KiCad")(uri "${LOCAL_PCBS}/attiny13_breakout/kicad/attiny13_breakout/lib/attiny13_breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "mech")(type "Legacy")(uri "${MYLIB}/mech.lib")(options "")(descr ""))
+)
