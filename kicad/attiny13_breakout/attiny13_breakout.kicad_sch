@@ -7,7 +7,7 @@
   (title_block
     (title "attiny13 Breakout")
     (date "2022-12-18")
-    (rev "1.0")
+    (rev "1.1")
     (company "Steve Mayze")
   )
 
@@ -1737,10 +1737,10 @@
     (property "Datasheet" "" (id 3) (at 163.83 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bff1f7f-f25a-4281-aa95-d848859f9d95))
-    (pin "1" (uuid 4bff1f7f-f25a-4281-aa95-d848859f9d95))
-    (pin "2" (uuid 6019e83b-8903-489a-9122-32d062733505))
-    (pin "2" (uuid 6019e83b-8903-489a-9122-32d062733505))
+    (pin "1" (uuid 4bff1f7f-f25a-4281-aa95-d848859f9d96))
+    (pin "1" (uuid 4bff1f7f-f25a-4281-aa95-d848859f9d96))
+    (pin "2" (uuid 6019e83b-8903-489a-9122-32d062733506))
+    (pin "2" (uuid 6019e83b-8903-489a-9122-32d062733506))
   )
 
   (symbol (lib_id "Regulator_Linear:TC1262-33") (at 85.09 39.37 0) (unit 1)
