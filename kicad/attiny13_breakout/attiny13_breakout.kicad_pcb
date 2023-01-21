@@ -752,7 +752,7 @@
     (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 39269d3d-9226-468a-a83c-76cc0b1a7157) (hatch full 0.508)
       (connect_pads (clearance 0))
       (min_thickness 0.254)
-      (keepout (tracks allowed) (vias not_allowed) (pads allowed) (copperpour not_allowed) (footprints not_allowed))
+      (keepout (tracks allowed) (vias not_allowed) (pads allowed ) (copperpour not_allowed) (footprints not_allowed))
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
@@ -1029,7 +1029,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${LOCAL_PCBS}/attiny13_breakout/kicad/attiny13_breakout/lib/models/10103594.stp"
+    (model "${KIPRJMOD}/lib/models/10103594.stp"
       (offset (xyz 0 0.254 2.413))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
